@@ -4,5 +4,6 @@ matplotlib
 wordcloud
 spacy==3.5.2
 thinc==8.1.10
+cython>=0.29
 pydantic==1.10.12
 https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.5.0/fr_core_news_sm-3.5.0.tar.gz
